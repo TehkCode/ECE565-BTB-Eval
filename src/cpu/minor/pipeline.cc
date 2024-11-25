@@ -43,6 +43,7 @@
 #include "cpu/minor/execute.hh"
 #include "cpu/minor/fetch1.hh"
 #include "cpu/minor/fetch2.hh"
+#include "cpu/pred/bpred_unit.hh"
 #include "debug/Drain.hh"
 #include "debug/MinorCPU.hh"
 #include "debug/MinorTrace.hh"
@@ -178,6 +179,15 @@ Pipeline::evaluate()
             stop();
         }
     }
+
+    // for (const auto& [key, value_set] : btb_map) {
+    //     std::cout << "Key: { ID: " << key.id << ", Name: " << key.name << " }\n";
+    //     std::cout << "Values: ";
+    //     for (const auto& val : value_set) {
+    //         std::cout << val << " ";
+    //     }
+    //     std::cout << "\n";
+    // }
 }
 
 MinorCPU::MinorCPUPort &

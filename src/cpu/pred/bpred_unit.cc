@@ -475,6 +475,7 @@ BPredUnit::squash(const InstSeqNum &squashed_sn,
                         hist_it->seqNum, hist_it->pc);
 
                 BTB.update(hist_it->pc, corr_target, tid);
+                //btb_map[corr_target].insert(hist_it->pc);
             }
         } else {
            //Actually not Taken

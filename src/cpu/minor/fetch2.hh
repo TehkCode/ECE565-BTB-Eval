@@ -46,6 +46,9 @@
 #define __CPU_MINOR_FETCH2_HH__
 
 #include <vector>
+// #include <unordered_map>
+// #include <unordered_set>
+
 
 #include "base/named.hh"
 #include "cpu/minor/buffers.hh"
@@ -68,6 +71,8 @@ class Fetch2 : public Named
   protected:
     /** Pointer back to the containing CPU */
     MinorCPU &cpu;
+
+    //std::unordered_map<PCStateBase, std::unordered_set<uint64_t>> btb_map;
 
     /** Input port carrying lines from Fetch1 */
     Latch<ForwardLineData>::Output inp;
