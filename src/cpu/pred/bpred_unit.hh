@@ -43,8 +43,8 @@
 #define __CPU_PRED_BPRED_UNIT_HH__
 
 #include <deque>
-// #include <unordered_map>
-// #include <unordered_set>
+#include <map>
+#include <unordered_set>
 
 #include "base/statistics.hh"
 #include "base/types.hh"
@@ -75,7 +75,7 @@ class BPredUnit : public SimObject
      * @param params The params object, that has the size of the BP and BTB.
      */
     BPredUnit(const Params &p);
-  //  std::unordered_map<PCStateBase, std::unordered_set<uint64_t>> btb_map;
+    std::map<PCStateBase, std::unordered_set<uint64_t>> btb_map;
 
     void regProbePoints() override;
 
