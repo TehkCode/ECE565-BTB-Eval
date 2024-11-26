@@ -59,6 +59,18 @@ class DefaultBTB
     };
 
   public:
+    /**
+    A function that Matthew Erlichson wrote under deress from Atthin Chandrashekar
+     */
+    Addr
+    targetLookup(unsigned index);
+
+    unsigned
+    numEntriesLookup();
+
+    bool
+    entryExists(unsigned index);
+
     /** Creates a BTB with the given number of entries, number of bits per
      *  tag, and instruction offset amount.
      *  @param numEntries Number of entries for the BTB.

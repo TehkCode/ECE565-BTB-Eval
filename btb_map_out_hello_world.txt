@@ -1,0 +1,10247 @@
+
+
+
+
+
+----------BTB STARTS HERE----------
+
+Global max of local duplicates: 0
+
+Local number of duplicates: 0
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+
+Global max of local duplicates: 0
+
+Local number of duplicates: 0
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+
+Global max of local duplicates: 0
+
+Local number of duplicates: 0
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+
+Global max of local duplicates: 0
+
+Local number of duplicates: 0
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+
+Global max of local duplicates: 0
+
+Local number of duplicates: 0
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 2
+
+Global max of local duplicates: 1
+
+Local number of duplicates: 1
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 2
+
+Global max of local duplicates: 1
+
+Local number of duplicates: 1
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 3
+
+Global max of local duplicates: 2
+
+Local number of duplicates: 2
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 3
+
+Global max of local duplicates: 2
+
+Local number of duplicates: 2
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 3
+
+Global max of local duplicates: 2
+
+Local number of duplicates: 2
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 3
+
+Global max of local duplicates: 2
+
+Local number of duplicates: 2
+
+Fraction of duplicates: 0
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 3
+
+Global max of local duplicates: 2
+
+Local number of duplicates: 2
+
+Fraction of duplicates: 1
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 3
+
+Global max of local duplicates: 2
+
+Local number of duplicates: 2
+
+Fraction of duplicates: 1
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 3
+
+Global max of local duplicates: 2
+
+Local number of duplicates: 2
+
+Fraction of duplicates: 1
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 3
+
+Global max of local duplicates: 2
+
+Local number of duplicates: 2
+
+Fraction of duplicates: 1
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 4
+
+Global max of local duplicates: 3
+
+Local number of duplicates: 3
+
+Fraction of duplicates: 1
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 4
+
+Global max of local duplicates: 3
+
+Local number of duplicates: 3
+
+Fraction of duplicates: 1
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 5
+
+Global max of local duplicates: 4
+
+Local number of duplicates: 4
+
+Fraction of duplicates: 1
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 5
+
+Global max of local duplicates: 4
+
+Local number of duplicates: 4
+
+Fraction of duplicates: 1
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 5
+
+Global max of local duplicates: 4
+
+Local number of duplicates: 4
+
+Fraction of duplicates: 1
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 6
+
+Global max of local duplicates: 5
+
+Local number of duplicates: 5
+
+Fraction of duplicates: 1
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 7
+
+Global max of local duplicates: 6
+
+Local number of duplicates: 6
+
+Fraction of duplicates: 2
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 8
+
+Global max of local duplicates: 7
+
+Local number of duplicates: 7
+
+Fraction of duplicates: 2
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 2
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 2
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 3
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 3
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 3
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 3
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 3
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 3
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 3
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 4
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 9
+
+Local number of duplicates: 9
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 9
+
+Local number of duplicates: 9
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 9
+
+Local number of duplicates: 9
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 9
+
+Local number of duplicates: 9
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 9
+
+Local number of duplicates: 9
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 9
+
+Local number of duplicates: 9
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 9
+
+Local number of duplicates: 9
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 5
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 10
+
+Local number of duplicates: 10
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 11
+
+Local number of duplicates: 11
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 11
+
+Local number of duplicates: 11
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 11
+
+Local number of duplicates: 11
+
+Fraction of duplicates: 6
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 11
+
+Local number of duplicates: 11
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 12
+
+Local number of duplicates: 12
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 13
+
+Local number of duplicates: 13
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 13
+
+Local number of duplicates: 13
+
+Fraction of duplicates: 7
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 14
+
+Local number of duplicates: 14
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 14
+
+Local number of duplicates: 14
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 14
+
+Local number of duplicates: 14
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 14
+
+Local number of duplicates: 14
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 14
+
+Local number of duplicates: 14
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 14
+
+Local number of duplicates: 14
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 14
+
+Local number of duplicates: 14
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 14
+
+Local number of duplicates: 14
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 8
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 16
+
+Local number of duplicates: 16
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 17
+
+Local number of duplicates: 17
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 17
+
+Local number of duplicates: 17
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 17
+
+Local number of duplicates: 17
+
+Fraction of duplicates: 9
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 17
+
+Local number of duplicates: 17
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 17
+
+Local number of duplicates: 17
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 17
+
+Local number of duplicates: 17
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 17
+
+Local number of duplicates: 17
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 17
+
+Local number of duplicates: 17
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 18
+
+Local number of duplicates: 18
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 18
+
+Local number of duplicates: 18
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 18
+
+Local number of duplicates: 18
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 18
+
+Local number of duplicates: 18
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 18
+
+Local number of duplicates: 18
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 3
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 19
+
+Local number of duplicates: 19
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 3
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 19
+
+Local number of duplicates: 19
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 3
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 19
+
+Local number of duplicates: 19
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 4
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 20
+
+Local number of duplicates: 20
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 4
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 20
+
+Local number of duplicates: 20
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 4
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 20
+
+Local number of duplicates: 20
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 5
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 21
+
+Local number of duplicates: 21
+
+Fraction of duplicates: 10
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 5
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 21
+
+Local number of duplicates: 21
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 5
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 21
+
+Local number of duplicates: 21
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 5
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 21
+
+Local number of duplicates: 21
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 6
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 6
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 6
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 6
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 6
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 6
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 21
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 6
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 21
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 6
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 21
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 6
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 21
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 11
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 22
+
+Local number of duplicates: 22
+
+Fraction of duplicates: 12
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 23
+
+Local number of duplicates: 23
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 23
+
+Local number of duplicates: 23
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 23
+
+Local number of duplicates: 23
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 23
+
+Local number of duplicates: 23
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 2
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 24
+
+Local number of duplicates: 24
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 2
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 24
+
+Local number of duplicates: 24
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 2
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 24
+
+Local number of duplicates: 24
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 2
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 24
+
+Local number of duplicates: 24
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 13
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 3
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 25
+
+Local number of duplicates: 25
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 14
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 26
+
+Local number of duplicates: 26
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 3
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 27
+
+Local number of duplicates: 27
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 3
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 27
+
+Local number of duplicates: 27
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 3
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 28
+
+Local number of duplicates: 28
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 3
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 28
+
+Local number of duplicates: 28
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 3
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 28
+
+Local number of duplicates: 28
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 3
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 28
+
+Local number of duplicates: 28
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 15
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+
+Global max of local duplicates: 29
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 77360
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 16
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 17
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 4
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 18
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 29
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 40104
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 40104
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 40104
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 40104
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 30
+
+Local number of duplicates: 30
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 40104
+Number of PCs: 2
+Target: 44700
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 31
+
+Local number of duplicates: 31
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 40104
+Number of PCs: 2
+Target: 44700
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 31
+
+Local number of duplicates: 31
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 40104
+Number of PCs: 2
+Target: 44700
+Number of PCs: 3
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 32
+
+Local number of duplicates: 32
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 40104
+Number of PCs: 2
+Target: 44700
+Number of PCs: 3
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 32
+
+Local number of duplicates: 32
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 5
+Target: 40104
+Number of PCs: 2
+Target: 44700
+Number of PCs: 3
+Target: 49360
+Number of PCs: 2
+Target: 58544
+Number of PCs: 2
+Target: 67836
+Number of PCs: 3
+Target: 72048
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 8
+Target: 107032
+Number of PCs: 7
+Target: 170652
+Number of PCs: 2
+Target: 177712
+Number of PCs: 4
+Target: 177720
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 32
+
+Local number of duplicates: 32
+
+Fraction of duplicates: 19
+----------BTB ENDS HERE----------
+
+
+
+

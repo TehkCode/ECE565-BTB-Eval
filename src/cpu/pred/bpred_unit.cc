@@ -475,7 +475,38 @@ BPredUnit::squash(const InstSeqNum &squashed_sn,
                         hist_it->seqNum, hist_it->pc);
 
                 BTB.update(hist_it->pc, corr_target, tid);
-                btb_map[corr_target].insert(hist_it->pc);
+                num_btb_updates++;
+
+                for(unsigned btb_idx = 0; btb_idx < BTB.numEntriesLookup(); btb_idx++) {
+                    if(BTB.entryExists(btb_idx)) {
+                        Addr target_address = BTB.targetLookup(btb_idx);
+                        btb_map[target_address]++;
+                    }
+                }
+                
+                int local_num_duplicate_btb_entries = 0;
+                std::ofstream outFile("btb_map_out.txt", std::ios::app);
+                outFile << "\n\n\n\n\n";
+                outFile << "----------BTB STARTS HERE----------\n";          
+                for (const auto& [key, value] : btb_map) {
+                    if (value > 1) {
+                        local_num_duplicate_btb_entries += (value - 1);
+                        outFile << "Target: " << key << "\n";
+                        outFile << "Number of PCs: " << value;
+                        outFile << "\n";
+                    }
+                }
+                if (local_num_duplicate_btb_entries > global_max_of_local_duplicates) {
+                    global_max_of_local_duplicates = local_num_duplicate_btb_entries;
+                }
+                global_counter += local_num_duplicate_btb_entries;
+                outFile << "\nGlobal max of local duplicates: " << global_max_of_local_duplicates << "\n";
+                outFile << "\nLocal number of duplicates: " << local_num_duplicate_btb_entries << "\n";
+                outFile << "\nFraction of duplicates: " << (global_counter / num_btb_updates) << "\n";
+                outFile << "----------BTB ENDS HERE----------";
+                outFile << "\n\n\n\n\n";
+                outFile.close();
+                btb_map.clear();
             }
         } else {
            //Actually not Taken

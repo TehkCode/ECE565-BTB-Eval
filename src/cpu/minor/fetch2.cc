@@ -38,6 +38,7 @@
 #include "cpu/minor/fetch2.hh"
 
 #include <string>
+#include <fstream>
 
 #include "arch/generic/decoder.hh"
 #include "base/logging.hh"
@@ -597,8 +598,9 @@ Fetch2::isDrained()
             return false;
     }
 
-    return (*inp.outputWire).isBubble() &&
-           (*predictionOut.inputWire).isBubble();
+    bool drain_condition = (*inp.outputWire).isBubble() && (*predictionOut.inputWire).isBubble();
+
+    return drain_condition;
 }
 
 Fetch2::Fetch2Stats::Fetch2Stats(MinorCPU *cpu)

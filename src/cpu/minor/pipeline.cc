@@ -179,15 +179,6 @@ Pipeline::evaluate()
             stop();
         }
     }
-
-    for (const auto& [key, value_set] : btb_map) {
-        std::cout << "Key: { ID: " << key.id << ", Name: " << key.name << " }\n";
-        std::cout << "Values: ";
-        for (const auto& val : value_set) {
-            std::cout << val << " ";
-        }
-        std::cout << "\n";
-    }
 }
 
 MinorCPU::MinorCPUPort &

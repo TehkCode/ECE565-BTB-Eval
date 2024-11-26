@@ -67,6 +67,7 @@ namespace branch_prediction
  * Basically a wrapper class to hold both the branch predictor
  * and the BTB.
  */
+
 class BPredUnit : public SimObject
 {
   public:
@@ -75,7 +76,10 @@ class BPredUnit : public SimObject
      * @param params The params object, that has the size of the BP and BTB.
      */
     BPredUnit(const Params &p);
-    std::map<PCStateBase, std::unordered_set<uint64_t>> btb_map;
+    std::map<uint64_t, uint64_t> btb_map;
+    int global_counter = 0;
+    int num_btb_updates = 0;
+    int global_max_of_local_duplicates = 0;
 
     void regProbePoints() override;
 

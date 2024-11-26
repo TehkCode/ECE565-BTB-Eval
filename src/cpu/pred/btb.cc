@@ -66,6 +66,21 @@ DefaultBTB::DefaultBTB(unsigned _numEntries,
     tagShiftAmt = instShiftAmt + floorLog2(numEntries);
 }
 
+Addr
+DefaultBTB::targetLookup(unsigned index) {
+    return btb[index].target.get()->instAddr();
+}
+
+unsigned
+DefaultBTB::numEntriesLookup(){
+    return numEntries;
+}
+
+bool
+DefaultBTB::entryExists(unsigned index) {
+    return btb[index].valid;
+}
+
 void
 DefaultBTB::reset()
 {
