@@ -96,7 +96,7 @@ Global max of local duplicates: 1
 
 Local number of duplicates: 1
 
-Fraction of duplicates: 0
+Fraction of duplicates: 0.166667
 ----------BTB ENDS HERE----------
 
 
@@ -115,7 +115,7 @@ Global max of local duplicates: 1
 
 Local number of duplicates: 1
 
-Fraction of duplicates: 0
+Fraction of duplicates: 0.285714
 ----------BTB ENDS HERE----------
 
 
@@ -134,7 +134,7 @@ Global max of local duplicates: 2
 
 Local number of duplicates: 2
 
-Fraction of duplicates: 0
+Fraction of duplicates: 0.5
 ----------BTB ENDS HERE----------
 
 
@@ -153,7 +153,7 @@ Global max of local duplicates: 2
 
 Local number of duplicates: 2
 
-Fraction of duplicates: 0
+Fraction of duplicates: 0.666667
 ----------BTB ENDS HERE----------
 
 
@@ -172,7 +172,7 @@ Global max of local duplicates: 2
 
 Local number of duplicates: 2
 
-Fraction of duplicates: 0
+Fraction of duplicates: 0.8
 ----------BTB ENDS HERE----------
 
 
@@ -191,26 +191,7 @@ Global max of local duplicates: 2
 
 Local number of duplicates: 2
 
-Fraction of duplicates: 0
-----------BTB ENDS HERE----------
-
-
-
-
-
-
-
-
-
-----------BTB STARTS HERE----------
-Target: 83044
-Number of PCs: 3
-
-Global max of local duplicates: 2
-
-Local number of duplicates: 2
-
-Fraction of duplicates: 1
+Fraction of duplicates: 0.909091
 ----------BTB ENDS HERE----------
 
 
@@ -248,7 +229,7 @@ Global max of local duplicates: 2
 
 Local number of duplicates: 2
 
-Fraction of duplicates: 1
+Fraction of duplicates: 1.07692
 ----------BTB ENDS HERE----------
 
 
@@ -267,7 +248,26 @@ Global max of local duplicates: 2
 
 Local number of duplicates: 2
 
-Fraction of duplicates: 1
+Fraction of duplicates: 1.14286
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 3
+
+Global max of local duplicates: 2
+
+Local number of duplicates: 2
+
+Fraction of duplicates: 1.2
 ----------BTB ENDS HERE----------
 
 
@@ -286,7 +286,7 @@ Global max of local duplicates: 3
 
 Local number of duplicates: 3
 
-Fraction of duplicates: 1
+Fraction of duplicates: 1.3125
 ----------BTB ENDS HERE----------
 
 
@@ -305,7 +305,7 @@ Global max of local duplicates: 3
 
 Local number of duplicates: 3
 
-Fraction of duplicates: 1
+Fraction of duplicates: 1.41176
 ----------BTB ENDS HERE----------
 
 
@@ -324,7 +324,7 @@ Global max of local duplicates: 4
 
 Local number of duplicates: 4
 
-Fraction of duplicates: 1
+Fraction of duplicates: 1.55556
 ----------BTB ENDS HERE----------
 
 
@@ -343,7 +343,7 @@ Global max of local duplicates: 4
 
 Local number of duplicates: 4
 
-Fraction of duplicates: 1
+Fraction of duplicates: 1.68421
 ----------BTB ENDS HERE----------
 
 
@@ -362,7 +362,7 @@ Global max of local duplicates: 4
 
 Local number of duplicates: 4
 
-Fraction of duplicates: 1
+Fraction of duplicates: 1.8
 ----------BTB ENDS HERE----------
 
 
@@ -381,7 +381,7 @@ Global max of local duplicates: 5
 
 Local number of duplicates: 5
 
-Fraction of duplicates: 1
+Fraction of duplicates: 1.95238
 ----------BTB ENDS HERE----------
 
 
@@ -400,7 +400,7 @@ Global max of local duplicates: 6
 
 Local number of duplicates: 6
 
-Fraction of duplicates: 2
+Fraction of duplicates: 2.13636
 ----------BTB ENDS HERE----------
 
 
@@ -419,7 +419,7 @@ Global max of local duplicates: 7
 
 Local number of duplicates: 7
 
-Fraction of duplicates: 2
+Fraction of duplicates: 2.34783
 ----------BTB ENDS HERE----------
 
 
@@ -438,7 +438,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 2
+Fraction of duplicates: 2.58333
 ----------BTB ENDS HERE----------
 
 
@@ -457,26 +457,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 2
-----------BTB ENDS HERE----------
-
-
-
-
-
-
-
-
-
-----------BTB STARTS HERE----------
-Target: 83044
-Number of PCs: 9
-
-Global max of local duplicates: 8
-
-Local number of duplicates: 8
-
-Fraction of duplicates: 3
+Fraction of duplicates: 2.8
 ----------BTB ENDS HERE----------
 
 
@@ -514,7 +495,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 3
+Fraction of duplicates: 3.18519
 ----------BTB ENDS HERE----------
 
 
@@ -533,7 +514,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 3
+Fraction of duplicates: 3.35714
 ----------BTB ENDS HERE----------
 
 
@@ -552,7 +533,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 3
+Fraction of duplicates: 3.51724
 ----------BTB ENDS HERE----------
 
 
@@ -571,7 +552,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 3
+Fraction of duplicates: 3.66667
 ----------BTB ENDS HERE----------
 
 
@@ -590,7 +571,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 3
+Fraction of duplicates: 3.80645
 ----------BTB ENDS HERE----------
 
 
@@ -609,7 +590,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 3.9375
 ----------BTB ENDS HERE----------
 
 
@@ -628,7 +609,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 4.06061
 ----------BTB ENDS HERE----------
 
 
@@ -647,7 +628,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 4.17647
 ----------BTB ENDS HERE----------
 
 
@@ -666,7 +647,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 4.28571
 ----------BTB ENDS HERE----------
 
 
@@ -685,7 +666,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 4.38889
 ----------BTB ENDS HERE----------
 
 
@@ -704,7 +685,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 4.48649
 ----------BTB ENDS HERE----------
 
 
@@ -723,7 +704,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 4.57895
 ----------BTB ENDS HERE----------
 
 
@@ -742,7 +723,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 4.66667
 ----------BTB ENDS HERE----------
 
 
@@ -761,7 +742,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 4.75
 ----------BTB ENDS HERE----------
 
 
@@ -780,7 +761,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 4.82927
 ----------BTB ENDS HERE----------
 
 
@@ -799,7 +780,7 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 4
+Fraction of duplicates: 4.90476
 ----------BTB ENDS HERE----------
 
 
@@ -818,7 +799,26 @@ Global max of local duplicates: 8
 
 Local number of duplicates: 8
 
-Fraction of duplicates: 5
+Fraction of duplicates: 4.97674
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 83044
+Number of PCs: 9
+
+Global max of local duplicates: 8
+
+Local number of duplicates: 8
+
+Fraction of duplicates: 5.04545
 ----------BTB ENDS HERE----------
 
 
@@ -839,7 +839,7 @@ Global max of local duplicates: 9
 
 Local number of duplicates: 9
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.13333
 ----------BTB ENDS HERE----------
 
 
@@ -860,7 +860,7 @@ Global max of local duplicates: 9
 
 Local number of duplicates: 9
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.21739
 ----------BTB ENDS HERE----------
 
 
@@ -881,7 +881,7 @@ Global max of local duplicates: 9
 
 Local number of duplicates: 9
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.29787
 ----------BTB ENDS HERE----------
 
 
@@ -902,7 +902,7 @@ Global max of local duplicates: 9
 
 Local number of duplicates: 9
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.375
 ----------BTB ENDS HERE----------
 
 
@@ -923,7 +923,7 @@ Global max of local duplicates: 9
 
 Local number of duplicates: 9
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.44898
 ----------BTB ENDS HERE----------
 
 
@@ -944,7 +944,7 @@ Global max of local duplicates: 9
 
 Local number of duplicates: 9
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.52
 ----------BTB ENDS HERE----------
 
 
@@ -965,7 +965,7 @@ Global max of local duplicates: 9
 
 Local number of duplicates: 9
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.58824
 ----------BTB ENDS HERE----------
 
 
@@ -988,7 +988,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.67308
 ----------BTB ENDS HERE----------
 
 
@@ -1011,7 +1011,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.75472
 ----------BTB ENDS HERE----------
 
 
@@ -1034,7 +1034,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.83333
 ----------BTB ENDS HERE----------
 
 
@@ -1057,7 +1057,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.90909
 ----------BTB ENDS HERE----------
 
 
@@ -1080,7 +1080,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 5
+Fraction of duplicates: 5.98214
 ----------BTB ENDS HERE----------
 
 
@@ -1103,7 +1103,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.05263
 ----------BTB ENDS HERE----------
 
 
@@ -1126,7 +1126,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.12069
 ----------BTB ENDS HERE----------
 
 
@@ -1149,7 +1149,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.18644
 ----------BTB ENDS HERE----------
 
 
@@ -1172,7 +1172,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.25
 ----------BTB ENDS HERE----------
 
 
@@ -1195,7 +1195,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.31148
 ----------BTB ENDS HERE----------
 
 
@@ -1218,7 +1218,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.37097
 ----------BTB ENDS HERE----------
 
 
@@ -1241,7 +1241,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.42857
 ----------BTB ENDS HERE----------
 
 
@@ -1264,7 +1264,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.48438
 ----------BTB ENDS HERE----------
 
 
@@ -1287,7 +1287,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.53846
 ----------BTB ENDS HERE----------
 
 
@@ -1310,7 +1310,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.59091
 ----------BTB ENDS HERE----------
 
 
@@ -1333,7 +1333,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.64179
 ----------BTB ENDS HERE----------
 
 
@@ -1356,7 +1356,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.69118
 ----------BTB ENDS HERE----------
 
 
@@ -1379,7 +1379,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.73913
 ----------BTB ENDS HERE----------
 
 
@@ -1402,7 +1402,7 @@ Global max of local duplicates: 10
 
 Local number of duplicates: 10
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.78571
 ----------BTB ENDS HERE----------
 
 
@@ -1427,7 +1427,7 @@ Global max of local duplicates: 11
 
 Local number of duplicates: 11
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.84507
 ----------BTB ENDS HERE----------
 
 
@@ -1452,7 +1452,7 @@ Global max of local duplicates: 11
 
 Local number of duplicates: 11
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.90278
 ----------BTB ENDS HERE----------
 
 
@@ -1477,7 +1477,7 @@ Global max of local duplicates: 11
 
 Local number of duplicates: 11
 
-Fraction of duplicates: 6
+Fraction of duplicates: 6.9589
 ----------BTB ENDS HERE----------
 
 
@@ -1502,7 +1502,7 @@ Global max of local duplicates: 11
 
 Local number of duplicates: 11
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.01351
 ----------BTB ENDS HERE----------
 
 
@@ -1529,7 +1529,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.08
 ----------BTB ENDS HERE----------
 
 
@@ -1556,7 +1556,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.14474
 ----------BTB ENDS HERE----------
 
 
@@ -1583,7 +1583,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.20779
 ----------BTB ENDS HERE----------
 
 
@@ -1610,7 +1610,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.26923
 ----------BTB ENDS HERE----------
 
 
@@ -1637,7 +1637,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.32911
 ----------BTB ENDS HERE----------
 
 
@@ -1664,7 +1664,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.3875
 ----------BTB ENDS HERE----------
 
 
@@ -1691,7 +1691,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.44444
 ----------BTB ENDS HERE----------
 
 
@@ -1718,7 +1718,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.5
 ----------BTB ENDS HERE----------
 
 
@@ -1745,7 +1745,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.55422
 ----------BTB ENDS HERE----------
 
 
@@ -1772,7 +1772,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.60714
 ----------BTB ENDS HERE----------
 
 
@@ -1799,7 +1799,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.65882
 ----------BTB ENDS HERE----------
 
 
@@ -1826,7 +1826,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.7093
 ----------BTB ENDS HERE----------
 
 
@@ -1853,7 +1853,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.75862
 ----------BTB ENDS HERE----------
 
 
@@ -1880,7 +1880,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.80682
 ----------BTB ENDS HERE----------
 
 
@@ -1907,7 +1907,7 @@ Global max of local duplicates: 12
 
 Local number of duplicates: 12
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.85393
 ----------BTB ENDS HERE----------
 
 
@@ -1936,7 +1936,7 @@ Global max of local duplicates: 13
 
 Local number of duplicates: 13
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.91111
 ----------BTB ENDS HERE----------
 
 
@@ -1965,7 +1965,7 @@ Global max of local duplicates: 13
 
 Local number of duplicates: 13
 
-Fraction of duplicates: 7
+Fraction of duplicates: 7.96703
 ----------BTB ENDS HERE----------
 
 
@@ -1996,7 +1996,7 @@ Global max of local duplicates: 14
 
 Local number of duplicates: 14
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.03261
 ----------BTB ENDS HERE----------
 
 
@@ -2027,7 +2027,7 @@ Global max of local duplicates: 14
 
 Local number of duplicates: 14
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.09677
 ----------BTB ENDS HERE----------
 
 
@@ -2058,7 +2058,7 @@ Global max of local duplicates: 14
 
 Local number of duplicates: 14
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.15957
 ----------BTB ENDS HERE----------
 
 
@@ -2089,7 +2089,7 @@ Global max of local duplicates: 14
 
 Local number of duplicates: 14
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.22105
 ----------BTB ENDS HERE----------
 
 
@@ -2120,7 +2120,7 @@ Global max of local duplicates: 14
 
 Local number of duplicates: 14
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.28125
 ----------BTB ENDS HERE----------
 
 
@@ -2151,7 +2151,7 @@ Global max of local duplicates: 14
 
 Local number of duplicates: 14
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.34021
 ----------BTB ENDS HERE----------
 
 
@@ -2182,7 +2182,7 @@ Global max of local duplicates: 14
 
 Local number of duplicates: 14
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.39796
 ----------BTB ENDS HERE----------
 
 
@@ -2213,7 +2213,7 @@ Global max of local duplicates: 14
 
 Local number of duplicates: 14
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.45455
 ----------BTB ENDS HERE----------
 
 
@@ -2246,7 +2246,7 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.52
 ----------BTB ENDS HERE----------
 
 
@@ -2279,7 +2279,7 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.58416
 ----------BTB ENDS HERE----------
 
 
@@ -2312,7 +2312,7 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.64706
 ----------BTB ENDS HERE----------
 
 
@@ -2345,7 +2345,7 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.70874
 ----------BTB ENDS HERE----------
 
 
@@ -2378,7 +2378,7 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.76923
 ----------BTB ENDS HERE----------
 
 
@@ -2411,7 +2411,7 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.82857
 ----------BTB ENDS HERE----------
 
 
@@ -2444,7 +2444,7 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 8
+Fraction of duplicates: 8.88679
 ----------BTB ENDS HERE----------
 
 
@@ -2477,40 +2477,7 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 8
-----------BTB ENDS HERE----------
-
-
-
-
-
-
-
-
-
-----------BTB STARTS HERE----------
-Target: 35408
-Number of PCs: 2
-Target: 49360
-Number of PCs: 2
-Target: 67836
-Number of PCs: 2
-Target: 72088
-Number of PCs: 2
-Target: 83044
-Number of PCs: 9
-Target: 107032
-Number of PCs: 2
-Target: 208932
-Number of PCs: 2
-Target: 405092
-Number of PCs: 2
-
-Global max of local duplicates: 15
-
-Local number of duplicates: 15
-
-Fraction of duplicates: 9
+Fraction of duplicates: 8.94392
 ----------BTB ENDS HERE----------
 
 
@@ -2576,7 +2543,7 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.05505
 ----------BTB ENDS HERE----------
 
 
@@ -2609,7 +2576,7 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.10909
 ----------BTB ENDS HERE----------
 
 
@@ -2642,7 +2609,40 @@ Global max of local duplicates: 15
 
 Local number of duplicates: 15
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.16216
+----------BTB ENDS HERE----------
+
+
+
+
+
+
+
+
+
+----------BTB STARTS HERE----------
+Target: 35408
+Number of PCs: 2
+Target: 49360
+Number of PCs: 2
+Target: 67836
+Number of PCs: 2
+Target: 72088
+Number of PCs: 2
+Target: 83044
+Number of PCs: 9
+Target: 107032
+Number of PCs: 2
+Target: 208932
+Number of PCs: 2
+Target: 405092
+Number of PCs: 2
+
+Global max of local duplicates: 15
+
+Local number of duplicates: 15
+
+Fraction of duplicates: 9.21429
 ----------BTB ENDS HERE----------
 
 
@@ -2677,7 +2677,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.27434
 ----------BTB ENDS HERE----------
 
 
@@ -2712,7 +2712,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.33333
 ----------BTB ENDS HERE----------
 
 
@@ -2747,7 +2747,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.3913
 ----------BTB ENDS HERE----------
 
 
@@ -2782,7 +2782,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.44828
 ----------BTB ENDS HERE----------
 
 
@@ -2817,7 +2817,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.50427
 ----------BTB ENDS HERE----------
 
 
@@ -2852,7 +2852,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.55932
 ----------BTB ENDS HERE----------
 
 
@@ -2887,7 +2887,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.61345
 ----------BTB ENDS HERE----------
 
 
@@ -2922,7 +2922,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.66667
 ----------BTB ENDS HERE----------
 
 
@@ -2957,7 +2957,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.71901
 ----------BTB ENDS HERE----------
 
 
@@ -2992,7 +2992,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.77049
 ----------BTB ENDS HERE----------
 
 
@@ -3027,7 +3027,7 @@ Global max of local duplicates: 16
 
 Local number of duplicates: 16
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.82114
 ----------BTB ENDS HERE----------
 
 
@@ -3062,7 +3062,7 @@ Global max of local duplicates: 17
 
 Local number of duplicates: 17
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.87903
 ----------BTB ENDS HERE----------
 
 
@@ -3097,7 +3097,7 @@ Global max of local duplicates: 17
 
 Local number of duplicates: 17
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.936
 ----------BTB ENDS HERE----------
 
 
@@ -3132,7 +3132,7 @@ Global max of local duplicates: 17
 
 Local number of duplicates: 17
 
-Fraction of duplicates: 9
+Fraction of duplicates: 9.99206
 ----------BTB ENDS HERE----------
 
 
@@ -3167,7 +3167,7 @@ Global max of local duplicates: 17
 
 Local number of duplicates: 17
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.0472
 ----------BTB ENDS HERE----------
 
 
@@ -3202,7 +3202,7 @@ Global max of local duplicates: 17
 
 Local number of duplicates: 17
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.1016
 ----------BTB ENDS HERE----------
 
 
@@ -3237,7 +3237,7 @@ Global max of local duplicates: 17
 
 Local number of duplicates: 17
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.155
 ----------BTB ENDS HERE----------
 
 
@@ -3272,7 +3272,7 @@ Global max of local duplicates: 17
 
 Local number of duplicates: 17
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.2077
 ----------BTB ENDS HERE----------
 
 
@@ -3307,7 +3307,7 @@ Global max of local duplicates: 17
 
 Local number of duplicates: 17
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.2595
 ----------BTB ENDS HERE----------
 
 
@@ -3344,7 +3344,7 @@ Global max of local duplicates: 18
 
 Local number of duplicates: 18
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.3182
 ----------BTB ENDS HERE----------
 
 
@@ -3381,7 +3381,7 @@ Global max of local duplicates: 18
 
 Local number of duplicates: 18
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.3759
 ----------BTB ENDS HERE----------
 
 
@@ -3418,7 +3418,7 @@ Global max of local duplicates: 18
 
 Local number of duplicates: 18
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.4328
 ----------BTB ENDS HERE----------
 
 
@@ -3455,7 +3455,7 @@ Global max of local duplicates: 18
 
 Local number of duplicates: 18
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.4889
 ----------BTB ENDS HERE----------
 
 
@@ -3492,7 +3492,7 @@ Global max of local duplicates: 18
 
 Local number of duplicates: 18
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.5441
 ----------BTB ENDS HERE----------
 
 
@@ -3529,7 +3529,7 @@ Global max of local duplicates: 19
 
 Local number of duplicates: 19
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.6058
 ----------BTB ENDS HERE----------
 
 
@@ -3566,7 +3566,7 @@ Global max of local duplicates: 19
 
 Local number of duplicates: 19
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.6667
 ----------BTB ENDS HERE----------
 
 
@@ -3603,7 +3603,7 @@ Global max of local duplicates: 19
 
 Local number of duplicates: 19
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.7266
 ----------BTB ENDS HERE----------
 
 
@@ -3640,7 +3640,7 @@ Global max of local duplicates: 20
 
 Local number of duplicates: 20
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.7929
 ----------BTB ENDS HERE----------
 
 
@@ -3677,7 +3677,7 @@ Global max of local duplicates: 20
 
 Local number of duplicates: 20
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.8582
 ----------BTB ENDS HERE----------
 
 
@@ -3714,7 +3714,7 @@ Global max of local duplicates: 20
 
 Local number of duplicates: 20
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.9225
 ----------BTB ENDS HERE----------
 
 
@@ -3751,7 +3751,7 @@ Global max of local duplicates: 21
 
 Local number of duplicates: 21
 
-Fraction of duplicates: 10
+Fraction of duplicates: 10.993
 ----------BTB ENDS HERE----------
 
 
@@ -3788,7 +3788,7 @@ Global max of local duplicates: 21
 
 Local number of duplicates: 21
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.0625
 ----------BTB ENDS HERE----------
 
 
@@ -3825,7 +3825,7 @@ Global max of local duplicates: 21
 
 Local number of duplicates: 21
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.131
 ----------BTB ENDS HERE----------
 
 
@@ -3862,7 +3862,7 @@ Global max of local duplicates: 21
 
 Local number of duplicates: 21
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.1986
 ----------BTB ENDS HERE----------
 
 
@@ -3899,7 +3899,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.2721
 ----------BTB ENDS HERE----------
 
 
@@ -3936,7 +3936,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.3446
 ----------BTB ENDS HERE----------
 
 
@@ -3973,7 +3973,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.4161
 ----------BTB ENDS HERE----------
 
 
@@ -4010,7 +4010,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.4867
 ----------BTB ENDS HERE----------
 
 
@@ -4047,7 +4047,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.5563
 ----------BTB ENDS HERE----------
 
 
@@ -4082,7 +4082,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 21
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.6184
 ----------BTB ENDS HERE----------
 
 
@@ -4117,7 +4117,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 21
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.6797
 ----------BTB ENDS HERE----------
 
 
@@ -4152,7 +4152,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 21
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.7403
 ----------BTB ENDS HERE----------
 
 
@@ -4187,7 +4187,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 21
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.8
 ----------BTB ENDS HERE----------
 
 
@@ -4222,7 +4222,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.8654
 ----------BTB ENDS HERE----------
 
 
@@ -4257,7 +4257,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.9299
 ----------BTB ENDS HERE----------
 
 
@@ -4292,7 +4292,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 11
+Fraction of duplicates: 11.9937
 ----------BTB ENDS HERE----------
 
 
@@ -4327,7 +4327,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.0566
 ----------BTB ENDS HERE----------
 
 
@@ -4362,7 +4362,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.1187
 ----------BTB ENDS HERE----------
 
 
@@ -4397,7 +4397,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.1801
 ----------BTB ENDS HERE----------
 
 
@@ -4432,7 +4432,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.2407
 ----------BTB ENDS HERE----------
 
 
@@ -4467,7 +4467,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.3006
 ----------BTB ENDS HERE----------
 
 
@@ -4502,7 +4502,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.3598
 ----------BTB ENDS HERE----------
 
 
@@ -4537,7 +4537,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.4182
 ----------BTB ENDS HERE----------
 
 
@@ -4572,7 +4572,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.4759
 ----------BTB ENDS HERE----------
 
 
@@ -4607,7 +4607,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.5329
 ----------BTB ENDS HERE----------
 
 
@@ -4642,7 +4642,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.5893
 ----------BTB ENDS HERE----------
 
 
@@ -4677,7 +4677,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.645
 ----------BTB ENDS HERE----------
 
 
@@ -4712,7 +4712,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.7
 ----------BTB ENDS HERE----------
 
 
@@ -4747,7 +4747,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.7544
 ----------BTB ENDS HERE----------
 
 
@@ -4782,7 +4782,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.8081
 ----------BTB ENDS HERE----------
 
 
@@ -4817,7 +4817,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.8613
 ----------BTB ENDS HERE----------
 
 
@@ -4852,7 +4852,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.9138
 ----------BTB ENDS HERE----------
 
 
@@ -4887,7 +4887,7 @@ Global max of local duplicates: 22
 
 Local number of duplicates: 22
 
-Fraction of duplicates: 12
+Fraction of duplicates: 12.9657
 ----------BTB ENDS HERE----------
 
 
@@ -4924,7 +4924,7 @@ Global max of local duplicates: 23
 
 Local number of duplicates: 23
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.0227
 ----------BTB ENDS HERE----------
 
 
@@ -4961,7 +4961,7 @@ Global max of local duplicates: 23
 
 Local number of duplicates: 23
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.0791
 ----------BTB ENDS HERE----------
 
 
@@ -4998,7 +4998,7 @@ Global max of local duplicates: 23
 
 Local number of duplicates: 23
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.1348
 ----------BTB ENDS HERE----------
 
 
@@ -5035,7 +5035,7 @@ Global max of local duplicates: 23
 
 Local number of duplicates: 23
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.1899
 ----------BTB ENDS HERE----------
 
 
@@ -5074,7 +5074,7 @@ Global max of local duplicates: 24
 
 Local number of duplicates: 24
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.25
 ----------BTB ENDS HERE----------
 
 
@@ -5113,7 +5113,7 @@ Global max of local duplicates: 24
 
 Local number of duplicates: 24
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.3094
 ----------BTB ENDS HERE----------
 
 
@@ -5152,7 +5152,7 @@ Global max of local duplicates: 24
 
 Local number of duplicates: 24
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.3681
 ----------BTB ENDS HERE----------
 
 
@@ -5191,7 +5191,7 @@ Global max of local duplicates: 24
 
 Local number of duplicates: 24
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.4262
 ----------BTB ENDS HERE----------
 
 
@@ -5230,7 +5230,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.4891
 ----------BTB ENDS HERE----------
 
 
@@ -5269,7 +5269,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.5514
 ----------BTB ENDS HERE----------
 
 
@@ -5308,7 +5308,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.6129
 ----------BTB ENDS HERE----------
 
 
@@ -5347,7 +5347,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.6738
 ----------BTB ENDS HERE----------
 
 
@@ -5386,7 +5386,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.734
 ----------BTB ENDS HERE----------
 
 
@@ -5425,7 +5425,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.7937
 ----------BTB ENDS HERE----------
 
 
@@ -5464,7 +5464,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.8526
 ----------BTB ENDS HERE----------
 
 
@@ -5503,7 +5503,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.911
 ----------BTB ENDS HERE----------
 
 
@@ -5542,7 +5542,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 13
+Fraction of duplicates: 13.9688
 ----------BTB ENDS HERE----------
 
 
@@ -5581,7 +5581,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.0259
 ----------BTB ENDS HERE----------
 
 
@@ -5620,7 +5620,7 @@ Global max of local duplicates: 25
 
 Local number of duplicates: 25
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.0825
 ----------BTB ENDS HERE----------
 
 
@@ -5659,7 +5659,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.1436
 ----------BTB ENDS HERE----------
 
 
@@ -5698,7 +5698,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.2041
 ----------BTB ENDS HERE----------
 
 
@@ -5737,7 +5737,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.264
 ----------BTB ENDS HERE----------
 
 
@@ -5776,7 +5776,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.3232
 ----------BTB ENDS HERE----------
 
 
@@ -5815,7 +5815,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.3819
 ----------BTB ENDS HERE----------
 
 
@@ -5854,7 +5854,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.44
 ----------BTB ENDS HERE----------
 
 
@@ -5893,7 +5893,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.4975
 ----------BTB ENDS HERE----------
 
 
@@ -5932,7 +5932,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.5545
 ----------BTB ENDS HERE----------
 
 
@@ -5971,7 +5971,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.6108
 ----------BTB ENDS HERE----------
 
 
@@ -6010,7 +6010,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.6667
 ----------BTB ENDS HERE----------
 
 
@@ -6049,7 +6049,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.722
 ----------BTB ENDS HERE----------
 
 
@@ -6088,7 +6088,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.7767
 ----------BTB ENDS HERE----------
 
 
@@ -6127,7 +6127,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.8309
 ----------BTB ENDS HERE----------
 
 
@@ -6166,7 +6166,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.8846
 ----------BTB ENDS HERE----------
 
 
@@ -6205,7 +6205,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.9378
 ----------BTB ENDS HERE----------
 
 
@@ -6244,7 +6244,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 14
+Fraction of duplicates: 14.9905
 ----------BTB ENDS HERE----------
 
 
@@ -6283,7 +6283,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.0427
 ----------BTB ENDS HERE----------
 
 
@@ -6322,7 +6322,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.0943
 ----------BTB ENDS HERE----------
 
 
@@ -6361,7 +6361,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.1455
 ----------BTB ENDS HERE----------
 
 
@@ -6400,7 +6400,7 @@ Global max of local duplicates: 26
 
 Local number of duplicates: 26
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.1963
 ----------BTB ENDS HERE----------
 
 
@@ -6439,7 +6439,7 @@ Global max of local duplicates: 27
 
 Local number of duplicates: 27
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.2512
 ----------BTB ENDS HERE----------
 
 
@@ -6478,7 +6478,7 @@ Global max of local duplicates: 27
 
 Local number of duplicates: 27
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.3056
 ----------BTB ENDS HERE----------
 
 
@@ -6519,7 +6519,7 @@ Global max of local duplicates: 28
 
 Local number of duplicates: 28
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.3641
 ----------BTB ENDS HERE----------
 
 
@@ -6560,7 +6560,7 @@ Global max of local duplicates: 28
 
 Local number of duplicates: 28
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.422
 ----------BTB ENDS HERE----------
 
 
@@ -6601,7 +6601,7 @@ Global max of local duplicates: 28
 
 Local number of duplicates: 28
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.4795
 ----------BTB ENDS HERE----------
 
 
@@ -6642,7 +6642,7 @@ Global max of local duplicates: 28
 
 Local number of duplicates: 28
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.5364
 ----------BTB ENDS HERE----------
 
 
@@ -6683,7 +6683,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.5973
 ----------BTB ENDS HERE----------
 
 
@@ -6724,7 +6724,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.6577
 ----------BTB ENDS HERE----------
 
 
@@ -6765,7 +6765,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.7175
 ----------BTB ENDS HERE----------
 
 
@@ -6806,7 +6806,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.7768
 ----------BTB ENDS HERE----------
 
 
@@ -6847,7 +6847,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.8356
 ----------BTB ENDS HERE----------
 
 
@@ -6888,7 +6888,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.8938
 ----------BTB ENDS HERE----------
 
 
@@ -6929,7 +6929,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 15
+Fraction of duplicates: 15.9515
 ----------BTB ENDS HERE----------
 
 
@@ -6970,7 +6970,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.0088
 ----------BTB ENDS HERE----------
 
 
@@ -7011,7 +7011,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.0655
 ----------BTB ENDS HERE----------
 
 
@@ -7052,7 +7052,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.1217
 ----------BTB ENDS HERE----------
 
 
@@ -7093,7 +7093,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.1775
 ----------BTB ENDS HERE----------
 
 
@@ -7134,7 +7134,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.2328
 ----------BTB ENDS HERE----------
 
 
@@ -7175,7 +7175,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.2876
 ----------BTB ENDS HERE----------
 
 
@@ -7216,7 +7216,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.3419
 ----------BTB ENDS HERE----------
 
 
@@ -7257,7 +7257,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.3957
 ----------BTB ENDS HERE----------
 
 
@@ -7298,7 +7298,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.4492
 ----------BTB ENDS HERE----------
 
 
@@ -7339,7 +7339,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.5021
 ----------BTB ENDS HERE----------
 
 
@@ -7380,7 +7380,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.5546
 ----------BTB ENDS HERE----------
 
 
@@ -7421,7 +7421,7 @@ Global max of local duplicates: 29
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.6067
 ----------BTB ENDS HERE----------
 
 
@@ -7464,7 +7464,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.6625
 ----------BTB ENDS HERE----------
 
 
@@ -7507,7 +7507,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.7178
 ----------BTB ENDS HERE----------
 
 
@@ -7548,7 +7548,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.7686
 ----------BTB ENDS HERE----------
 
 
@@ -7589,7 +7589,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.8189
 ----------BTB ENDS HERE----------
 
 
@@ -7630,7 +7630,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.8689
 ----------BTB ENDS HERE----------
 
 
@@ -7671,7 +7671,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.9184
 ----------BTB ENDS HERE----------
 
 
@@ -7712,7 +7712,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 16
+Fraction of duplicates: 16.9675
 ----------BTB ENDS HERE----------
 
 
@@ -7753,7 +7753,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.0162
 ----------BTB ENDS HERE----------
 
 
@@ -7794,7 +7794,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.0645
 ----------BTB ENDS HERE----------
 
 
@@ -7835,7 +7835,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.1124
 ----------BTB ENDS HERE----------
 
 
@@ -7876,7 +7876,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.16
 ----------BTB ENDS HERE----------
 
 
@@ -7917,7 +7917,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.2072
 ----------BTB ENDS HERE----------
 
 
@@ -7958,7 +7958,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.254
 ----------BTB ENDS HERE----------
 
 
@@ -8001,7 +8001,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.3043
 ----------BTB ENDS HERE----------
 
 
@@ -8044,7 +8044,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.3543
 ----------BTB ENDS HERE----------
 
 
@@ -8087,7 +8087,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.4039
 ----------BTB ENDS HERE----------
 
 
@@ -8130,7 +8130,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.4531
 ----------BTB ENDS HERE----------
 
 
@@ -8173,7 +8173,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.5019
 ----------BTB ENDS HERE----------
 
 
@@ -8216,7 +8216,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.5504
 ----------BTB ENDS HERE----------
 
 
@@ -8259,7 +8259,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.5985
 ----------BTB ENDS HERE----------
 
 
@@ -8302,7 +8302,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.6462
 ----------BTB ENDS HERE----------
 
 
@@ -8345,7 +8345,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.6935
 ----------BTB ENDS HERE----------
 
 
@@ -8388,7 +8388,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.7405
 ----------BTB ENDS HERE----------
 
 
@@ -8431,7 +8431,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.7871
 ----------BTB ENDS HERE----------
 
 
@@ -8474,7 +8474,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.8333
 ----------BTB ENDS HERE----------
 
 
@@ -8517,7 +8517,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.8792
 ----------BTB ENDS HERE----------
 
 
@@ -8560,7 +8560,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.9248
 ----------BTB ENDS HERE----------
 
 
@@ -8603,7 +8603,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 17
+Fraction of duplicates: 17.97
 ----------BTB ENDS HERE----------
 
 
@@ -8646,7 +8646,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.0149
 ----------BTB ENDS HERE----------
 
 
@@ -8689,7 +8689,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.0595
 ----------BTB ENDS HERE----------
 
 
@@ -8732,7 +8732,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.1037
 ----------BTB ENDS HERE----------
 
 
@@ -8775,7 +8775,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.1439
 ----------BTB ENDS HERE----------
 
 
@@ -8818,7 +8818,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.1838
 ----------BTB ENDS HERE----------
 
 
@@ -8861,7 +8861,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.2234
 ----------BTB ENDS HERE----------
 
 
@@ -8904,7 +8904,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.2628
 ----------BTB ENDS HERE----------
 
 
@@ -8947,7 +8947,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.3018
 ----------BTB ENDS HERE----------
 
 
@@ -8990,7 +8990,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.3406
 ----------BTB ENDS HERE----------
 
 
@@ -9033,7 +9033,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.3791
 ----------BTB ENDS HERE----------
 
 
@@ -9076,7 +9076,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.4173
 ----------BTB ENDS HERE----------
 
 
@@ -9119,7 +9119,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.4552
 ----------BTB ENDS HERE----------
 
 
@@ -9162,7 +9162,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.4929
 ----------BTB ENDS HERE----------
 
 
@@ -9205,7 +9205,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.5302
 ----------BTB ENDS HERE----------
 
 
@@ -9248,7 +9248,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.5674
 ----------BTB ENDS HERE----------
 
 
@@ -9291,7 +9291,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.6042
 ----------BTB ENDS HERE----------
 
 
@@ -9334,7 +9334,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.6408
 ----------BTB ENDS HERE----------
 
 
@@ -9377,7 +9377,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.6772
 ----------BTB ENDS HERE----------
 
 
@@ -9420,7 +9420,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.7133
 ----------BTB ENDS HERE----------
 
 
@@ -9463,7 +9463,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.7491
 ----------BTB ENDS HERE----------
 
 
@@ -9506,7 +9506,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.7847
 ----------BTB ENDS HERE----------
 
 
@@ -9549,7 +9549,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.8201
 ----------BTB ENDS HERE----------
 
 
@@ -9592,7 +9592,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.8586
 ----------BTB ENDS HERE----------
 
 
@@ -9635,7 +9635,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.8969
 ----------BTB ENDS HERE----------
 
 
@@ -9678,7 +9678,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.9349
 ----------BTB ENDS HERE----------
 
 
@@ -9719,7 +9719,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 18
+Fraction of duplicates: 18.9693
 ----------BTB ENDS HERE----------
 
 
@@ -9760,7 +9760,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.0034
 ----------BTB ENDS HERE----------
 
 
@@ -9801,7 +9801,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.0373
 ----------BTB ENDS HERE----------
 
 
@@ -9842,7 +9842,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 29
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.0709
 ----------BTB ENDS HERE----------
 
 
@@ -9885,7 +9885,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.1077
 ----------BTB ENDS HERE----------
 
 
@@ -9928,7 +9928,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.1443
 ----------BTB ENDS HERE----------
 
 
@@ -9971,7 +9971,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.1806
 ----------BTB ENDS HERE----------
 
 
@@ -10014,7 +10014,7 @@ Global max of local duplicates: 30
 
 Local number of duplicates: 30
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.2167
 ----------BTB ENDS HERE----------
 
 
@@ -10059,7 +10059,7 @@ Global max of local duplicates: 31
 
 Local number of duplicates: 31
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.2558
 ----------BTB ENDS HERE----------
 
 
@@ -10104,7 +10104,7 @@ Global max of local duplicates: 31
 
 Local number of duplicates: 31
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.2947
 ----------BTB ENDS HERE----------
 
 
@@ -10149,7 +10149,7 @@ Global max of local duplicates: 32
 
 Local number of duplicates: 32
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.3366
 ----------BTB ENDS HERE----------
 
 
@@ -10194,7 +10194,7 @@ Global max of local duplicates: 32
 
 Local number of duplicates: 32
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.3783
 ----------BTB ENDS HERE----------
 
 
@@ -10239,7 +10239,7 @@ Global max of local duplicates: 32
 
 Local number of duplicates: 32
 
-Fraction of duplicates: 19
+Fraction of duplicates: 19.4197
 ----------BTB ENDS HERE----------
 
 

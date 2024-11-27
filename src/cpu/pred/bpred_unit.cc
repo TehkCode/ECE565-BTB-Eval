@@ -502,7 +502,7 @@ BPredUnit::squash(const InstSeqNum &squashed_sn,
                 global_counter += local_num_duplicate_btb_entries;
                 outFile << "\nGlobal max of local duplicates: " << global_max_of_local_duplicates << "\n";
                 outFile << "\nLocal number of duplicates: " << local_num_duplicate_btb_entries << "\n";
-                outFile << "\nFraction of duplicates: " << (global_counter / num_btb_updates) << "\n";
+                outFile << "\nFraction of duplicates: " << ((float)global_counter / (float)num_btb_updates) << "\n";
                 outFile << "----------BTB ENDS HERE----------";
                 outFile << "\n\n\n\n\n";
                 outFile.close();
