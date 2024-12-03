@@ -154,6 +154,7 @@ BPredUnit::predict(const StaticInstPtr &inst, const InstSeqNum &seqNum,
     } else {
         ++stats.condPredicted;
         pred_taken = lookup(tid, pc.instAddr(), bp_history);
+        
 
         DPRINTF(Branch, "[tid:%i] [sn:%llu] "
                 "Branch predictor predicted %i for PC %s\n",
@@ -212,7 +213,30 @@ BPredUnit::predict(const StaticInstPtr &inst, const InstSeqNum &seqNum,
             if (inst->isDirectCtrl() || !iPred) {
                 ++stats.BTBLookups;
                 // Check BTB on direct branches
-                if (BTB.valid(pc.instAddr(), tid)) {
+
+                //is the branch present in the fully associative btb
+                bool full_assoc_hit = false;
+                int hit_idx = 0;
+                for(int valid_idx = 0; valid_idx < 32; valid_idx++) {
+                    if(assoc_btb[valid_idx].valid && (pc.instAddr() == assoc_btb[valid_idx].tag)) {
+                        //so its a hit in our BTB
+                        full_assoc_hit = true;
+                        hit_idx = valid_idx;
+                        break;
+                    }
+                }
+                //new full assoc btb hit *************
+                if(full_assoc_hit) {
+                    ++stats.BTBHits;
+                    // If it's not a return, use the BTB to get target addr.
+                    set(target, assoc_btb[hit_idx].target);
+                    DPRINTF(Branch,
+                            "[tid:%i] [sn:%llu] Instruction %s predicted "
+                            "target is %s\n",
+                            tid, seqNum, pc, *target);
+                }
+                // ************************************
+                else if (BTB.valid(pc.instAddr(), tid)) {
                     ++stats.BTBHits;
                     // If it's not a return, use the BTB to get target addr.
                     set(target, BTB.lookup(pc.instAddr(), tid));

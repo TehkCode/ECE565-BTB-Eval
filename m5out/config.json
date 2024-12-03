@@ -64,6 +64,17 @@
                 "host_paths": [
                     "m5out/fs/tmp"
                 ]
+            },
+            {
+                "type": "RedirectPath",
+                "cxx_class": "gem5::RedirectPath",
+                "name": "redirect_paths3",
+                "path": "system.redirect_paths3",
+                "app_path": "/lib64",
+                "eventq_index": 0,
+                "host_paths": [
+                    "/package/gcc/8.3.0/lib64"
+                ]
             }
         ],
         "shadow_rom_ranges": [],
@@ -1241,7 +1252,13 @@
                         "name": "workload",
                         "path": "system.cpu.workload",
                         "cmd": [
-                            "tests/test-progs/hello/bin/arm/linux/hello"
+                            "/home/min/a/ece565/benchspec-2020/CPU2006/444.namd/exe/namd_base.amd64-armcross",
+                            "--input",
+                            "/home/min/a/ece565/benchspec-2020/CPU2006/444.namd//data/all/input/namd.input",
+                            "--iterations",
+                            "1",
+                            "--output",
+                            "namd.out"
                         ],
                         "cwd": "/home/shay/a/chand158/ece565_final_project/ECE565-BTB-Eval",
                         "drivers": [],
@@ -1250,12 +1267,12 @@
                         "errout": "cerr",
                         "euid": 100,
                         "eventq_index": 0,
-                        "executable": "tests/test-progs/hello/bin/arm/linux/hello",
-                        "gid": 5000,
+                        "executable": "/home/min/a/ece565/benchspec-2020/CPU2006/444.namd/exe/namd_base.amd64-armcross",
+                        "gid": 100,
                         "input": "cin",
                         "kvmInSE": false,
                         "maxStackSize": 67108864,
-                        "output": "cout",
+                        "output": "namd.stdout",
                         "pgid": 100,
                         "pid": 100,
                         "ppid": 0,
