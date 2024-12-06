@@ -76,22 +76,28 @@ class BPredUnit : public SimObject
      * @param params The params object, that has the size of the BP and BTB.
      */
     BPredUnit(const Params &p);
-    std::map<uint64_t, uint64_t> btb_map;
 
+    int assoc_btb_num_entries = 256;
+    
     //a single entry of our fully associative btb
     struct assoc_btb_entry
     {
-        bool valid      = false;
-        uint64_t tag    = 0;
+        bool recently_used = false;
+        bool valid         = false;
+        uint64_t tag       = 0;
         std::unique_ptr<PCStateBase> target;    
     };
 
-    assoc_btb_entry assoc_btb[32];
+    assoc_btb_entry assoc_btb[256];
+
+    int global_btb_hit_count = 0;
+    int global_assoc_btb_hit_count = 0;
 
     int global_counter = 0;
     int num_btb_updates = 0;
     int global_max_of_local_duplicates = 0;
-
+    std::map<uint64_t, uint64_t> btb_map;
+    
     void regProbePoints() override;
 
     /** Perform sanity checks after a drain. */
