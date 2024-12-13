@@ -38,7 +38,6 @@
 #include "cpu/minor/fetch2.hh"
 
 #include <string>
-#include <fstream>
 
 #include "arch/generic/decoder.hh"
 #include "base/logging.hh"
@@ -529,6 +528,9 @@ Fetch2::evaluate()
 
         /* The rest of the output (if any) should already have been packed
          *  with bubble instructions by insts_out's initialisation */
+            std::ofstream outFile("pc_stream_change.txt", std::ios::app);
+            outFile << *fetch_info.pc << "\n";
+            outFile.close();
     }
     if (tid == InvalidThreadID) {
         assert(insts_out.isBubble());
@@ -598,9 +600,8 @@ Fetch2::isDrained()
             return false;
     }
 
-    bool drain_condition = (*inp.outputWire).isBubble() && (*predictionOut.inputWire).isBubble();
-
-    return drain_condition;
+    return (*inp.outputWire).isBubble() &&
+           (*predictionOut.inputWire).isBubble();
 }
 
 Fetch2::Fetch2Stats::Fetch2Stats(MinorCPU *cpu)

@@ -227,8 +227,26 @@ BPredUnit::predict(const StaticInstPtr &inst, const InstSeqNum &seqNum,
                         break;
                     }
                 }
+                if (BTB.valid(pc.instAddr(), tid)) {
+                    ++global_btb_hit_count;
+                    
+                    // if(full_assoc_hit) {
+                    //     std::cout << "global_btb_hit_count and assoc hit ******************************************" << global_btb_hit_count << std::endl;
+                    // } else {
+                    //     std::cout << "global_btb_hit_count" << global_btb_hit_count << std::endl;
+                    // }
+                    
+
+                    ++stats.BTBHits;
+                    // If it's not a return, use the BTB to get target addr.
+                    set(target, BTB.lookup(pc.instAddr(), tid));
+                    DPRINTF(Branch,
+                            "[tid:%i] [sn:%llu] Instruction %s predicted "
+                            "target is %s\n",
+                            tid, seqNum, pc, *target);
+            
                 //new full assoc btb hit *************
-                if(full_assoc_hit) {
+                } else if(full_assoc_hit) {
                     ++global_assoc_btb_hit_count;
                     std::cout << "global_assoc_btb_hit_count" << global_assoc_btb_hit_count << std::endl;
 
@@ -236,20 +254,6 @@ BPredUnit::predict(const StaticInstPtr &inst, const InstSeqNum &seqNum,
                     // If it's not a return, use the BTB to get target addr.
                     assoc_btb[hit_idx].recently_used = true;
                     set(target, assoc_btb[hit_idx].target);
-                    DPRINTF(Branch,
-                            "[tid:%i] [sn:%llu] Instruction %s predicted "
-                            "target is %s\n",
-                            tid, seqNum, pc, *target);
-                }
-                // ************************************
-                else if (BTB.valid(pc.instAddr(), tid)) {
-                    ++global_btb_hit_count;
-                    
-                    std::cout << "global_btb_hit_count" << global_btb_hit_count << std::endl;
-
-                    ++stats.BTBHits;
-                    // If it's not a return, use the BTB to get target addr.
-                    set(target, BTB.lookup(pc.instAddr(), tid));
                     DPRINTF(Branch,
                             "[tid:%i] [sn:%llu] Instruction %s predicted "
                             "target is %s\n",
@@ -509,66 +513,83 @@ BPredUnit::squash(const InstSeqNum &squashed_sn,
                         hist_it->seqNum, hist_it->pc);
                 //*****************UPDATING FULL ASSOC TABLE********************
                 //we need to make sure that what we're about to add is not a duplicate
-                bool is_duplicate = false;
-                for(int btb_idx = 0; btb_idx < BTB.numEntriesLookup(); btb_idx++) {
-                    if(BTB.entryExists(btb_idx)) {
-                        Addr target_address = BTB.targetLookup(btb_idx);
-                        if(target_address == corr_target.instAddr()) {
-                            std::cout << "table target " << target_address << "corr_target " << corr_target.instAddr() << std::endl;
 
-                            is_duplicate = true;
-                            //std::cout << "duplicate found" << std::endl;
-                        }
+                bool any_hit = false;
+                for(int valid_idx = 0; valid_idx < assoc_btb_num_entries; valid_idx++) {
+                    if(assoc_btb[valid_idx].valid && (hist_it->pc == assoc_btb[valid_idx].tag)) {
+                        //so its a hit in our BTB
+                        any_hit = true;
+                        break;
                     }
                 }
 
-                if(is_duplicate) {
-                    //if its a duplicate we need to add it to the associative table instead
+                if (BTB.valid(hist_it->pc, tid)) {
+                    any_hit = true;
+                }
 
-                    bool found_open_spot = false;
-                    // for(int valid_idx = 0; valid_idx < assoc_btb_num_entries; valid_idx++) {
-                    //     if(!assoc_btb[valid_idx].valid) {
-                    //         //found an open spot in the table
-                    //         found_open_spot = true;
-                            
-                    //         assoc_btb[valid_idx].recently_used = true;
-                    //         assoc_btb[valid_idx].valid = true;
-                    //         assoc_btb[valid_idx].tag = hist_it->pc;
-                    //         set(assoc_btb[valid_idx].target, corr_target);
+                if(!any_hit) {
+                    bool is_duplicate = false;
+                    for(int btb_idx = 0; btb_idx < BTB.numEntriesLookup(); btb_idx++) {
+                        if(BTB.entryExists(btb_idx)) {
+                            Addr target_address = BTB.targetLookup(btb_idx);
+                            if(target_address == corr_target.instAddr()) {
+                                std::cout << "table target " << target_address << "corr_target " << corr_target.instAddr() << std::endl;
 
-                    //         break;
-                    //     }
-                    // }
-                    if(!found_open_spot) {
-                        for(int open_idx = 0; open_idx < assoc_btb_num_entries; open_idx++) {
-                            if(!assoc_btb[open_idx].recently_used) {
-                                //found an open spot in the table
-                                found_open_spot = true;
+                                is_duplicate = true;
+                                //std::cout << "duplicate found" << std::endl;
+                            }
+                        }
+                    }
+
+                    if(is_duplicate) {
+                        //if its a duplicate we need to add it to the associative table instead
+
+                        bool found_open_spot = false;
+                        // for(int valid_idx = 0; valid_idx < assoc_btb_num_entries; valid_idx++) {
+                        //     if(!assoc_btb[valid_idx].valid) {
+                        //         //found an open spot in the table
+                        //         found_open_spot = true;
                                 
-                                assoc_btb[open_idx].recently_used = true;
-                                assoc_btb[open_idx].valid = true;
-                                assoc_btb[open_idx].tag = hist_it->pc;
-                                set(assoc_btb[open_idx].target, corr_target);
+                        //         assoc_btb[valid_idx].recently_used = true;
+                        //         assoc_btb[valid_idx].valid = true;
+                        //         assoc_btb[valid_idx].tag = hist_it->pc;
+                        //         set(assoc_btb[valid_idx].target, corr_target);
 
-                                break;
-                            }
-                        }
+                        //         break;
+                        //     }
+                        // }
                         if(!found_open_spot) {
-                            for(int rst_nru_idx =0; rst_nru_idx < assoc_btb_num_entries; rst_nru_idx++) {
-                                assoc_btb[rst_nru_idx].recently_used = false;
-                            }
-                            assoc_btb[0].recently_used = true;
-                            assoc_btb[0].valid = true;
-                            assoc_btb[0].tag = hist_it->pc;
-                            set(assoc_btb[0].target, corr_target);
-                        }
-                    }
+                            for(int open_idx = 0; open_idx < assoc_btb_num_entries; open_idx++) {
+                                if(!assoc_btb[open_idx].recently_used) {
+                                    //found an open spot in the table
+                                    found_open_spot = true;
+                                    
+                                    assoc_btb[open_idx].recently_used = true;
+                                    assoc_btb[open_idx].valid = true;
+                                    assoc_btb[open_idx].tag = hist_it->pc;
+                                    set(assoc_btb[open_idx].target, corr_target);
 
-                    //if not we just add it to original predictor
-                } else {
-                    BTB.update(hist_it->pc, corr_target, tid);
+                                    break;
+                                }
+                            }
+                            if(!found_open_spot) {
+                                for(int rst_nru_idx =0; rst_nru_idx < assoc_btb_num_entries; rst_nru_idx++) {
+                                    assoc_btb[rst_nru_idx].recently_used = false;
+                                }
+                                assoc_btb[0].recently_used = true;
+                                assoc_btb[0].valid = true;
+                                assoc_btb[0].tag = hist_it->pc;
+                                set(assoc_btb[0].target, corr_target);
+                            }
+                        }
+
+                        //if not we just add it to original predictor
+                    } else {
+                        BTB.update(hist_it->pc, corr_target, tid);
+                    }
+                    num_btb_updates++;
                 }
-                num_btb_updates++;
+
 
                 for(unsigned btb_idx = 0; btb_idx < BTB.numEntriesLookup(); btb_idx++) {
                     if(BTB.entryExists(btb_idx)) {
